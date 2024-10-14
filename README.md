@@ -56,7 +56,7 @@ To set up a local copy of the project, follow these steps:
 
 ## 🌐 Live Demo
 
-Check out the live demo [here]([your-live-demo-link](https://metaverse-umber-xi.vercel.app/]).
+Check out the live demo [here](https://metaverse-umber-xi.vercel.app/).
 
 ## Acknowledgements
 
