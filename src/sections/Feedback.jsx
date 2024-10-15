@@ -2,10 +2,10 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { fadeIn, staggerContainer, zoomIn } from '../utils/motion';
-import planetImage from '../src/assets/planet-09.png';
-import stampImage from '../src/assets/stamp.png';
+import planetImage from '../assets/planet-09.png';
+import stampImage from '../assets/stamp.png';
 
 const Feedback = () => (
     <section className={`${styles.paddings}`}>

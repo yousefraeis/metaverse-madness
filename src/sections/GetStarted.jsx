@@ -2,11 +2,11 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { startingFeatures } from '../constants';
 import { StartSteps, TitleText, TypingText } from '../components';
 import { fadeIn, staggerContainer, planetVariants } from '../utils/motion';
-import getStartedImage from '../src/assets/get-started.png';
+import getStartedImage from '../assets/get-started.png';
 
 
 const GetStarted = () => (

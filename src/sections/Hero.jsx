@@ -2,11 +2,11 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { slideIn, staggerContainer, textVariant } from '../utils/motion';
 
-import coverImage from '../src/assets/cover.png'; 
-import stampImage from '../src/assets/stamp.png'; 
+import coverImage from '../assets/cover.png'; 
+import stampImage from '../assets/stamp.png'; 
 
 const Hero = () => (
     <section className={`${styles.yPaddings} sm:pl-16 pl-6`}>

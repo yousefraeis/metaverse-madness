@@ -1,17 +1,17 @@
-import planet01 from '../src/assets/planet-01.png';
-import planet02 from '../src/assets/planet-02.png';
-import planet03 from '../src/assets/planet-03.png';
-import planet04 from '../src/assets/planet-04.png';
-import planet05 from '../src/assets/planet-05.png';
-import vrPano from '../src/assets/vrpano.svg';
-import headset from '../src/assets/headset.svg';
-import planet06 from '../src/assets/planet-06.png';
-import planet07 from '../src/assets/planet-07.png';
-import planet08 from '../src/assets/planet-08.png';
-import twitterIcon from '../src/assets/twitter.svg';
-import linkedinIcon from '../src/assets/linkedin.svg';
-import instagramIcon from '../src/assets/instagram.svg';
-import facebookIcon from '../src/assets/facebook.svg';
+import planet01 from '../assets/planet-01.png';
+import planet02 from '../assets/planet-02.png';
+import planet03 from '../assets/planet-03.png';
+import planet04 from '../assets/planet-04.png';
+import planet05 from '../assets/planet-05.png';
+import vrPano from '../assets/vrpano.svg';
+import headset from '../assets/headset.svg';
+import planet06 from '../assets/planet-06.png';
+import planet07 from '../assets/planet-07.png';
+import planet08 from '../assets/planet-08.png';
+import twitterIcon from '../assets/twitter.svg';
+import linkedinIcon from '../assets/linkedin.svg';
+import instagramIcon from '../assets/instagram.svg';
+import facebookIcon from '../assets/facebook.svg';
 
 export const exploreWorlds = [
     {

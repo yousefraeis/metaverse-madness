@@ -2,11 +2,11 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { navVariants } from '../utils/motion';
 
-import searchIcon from '../src/assets/search.svg';
-import menuIcon from '../src/assets/menu.svg';
+import searchIcon from '../assets/search.svg';
+import menuIcon from '../assets/menu.svg';
 const Navbar = () => (
     <motion.nav
         variants={navVariants}

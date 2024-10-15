@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { textContainer, textVariant2 } from '../utils/motion';
 
 export const TypingText = ({ title, textStyles }) => (

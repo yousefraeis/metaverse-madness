@@ -2,11 +2,11 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { newFeatures } from '../constants';
 import { NewFeatures, TitleText, TypingText } from '../components';
 import { fadeIn, staggerContainer, planetVariants } from '../utils/motion';
-import whatsNewImage from '../src/assets/whats-new.png';
+import whatsNewImage from '../assets/whats-new.png';
 
 
 const WhatsNew = () => (

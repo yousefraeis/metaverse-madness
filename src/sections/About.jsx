@@ -3,9 +3,9 @@
 import { motion } from 'framer-motion';
 import { TypingText } from '../components';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { fadeIn, staggerContainer } from '../utils/motion';
-import arrowDown from '../src/assets/arrow-down.svg';
+import arrowDown from '../assets/arrow-down.svg';
 
 const About = () => (
     <section className={`${styles.paddings} relative z-10`}>

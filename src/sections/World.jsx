@@ -2,14 +2,14 @@
 
 import { motion } from 'framer-motion';
 
-import styles from '../src/styles';
+import styles from '../styles';
 import { TitleText, TypingText } from '../components';
 import { fadeIn, staggerContainer } from '../utils/motion';
 
-import mapImage from '../src/assets/map.png';
-import person1Image from '../src/assets/people-01.png';
-import person2Image from '../src/assets/people-02.png';
-import person3Image from '../src/assets/people-03.png';
+import mapImage from '../assets/map.png';
+import person1Image from '../assets/people-01.png';
+import person2Image from '../assets/people-02.png';
+import person3Image from '../assets/people-03.png';
 
 const World = () => (
     <section className={`${styles.paddings} relative z-10`}>
@@ -39,14 +39,14 @@ const World = () => (
                 className="relative mt-[68px] flex w-full h-[550px]"
             >
                 <img
-                    src={mapImage} 
+                    src={mapImage}
                     alt="map"
                     className="w-full h-full object-cover"
                 />
 
                 <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
                     <img
-                        src={person1Image} 
+                        src={person1Image}
                         alt="people"
                         className="w-full h-full"
                     />
@@ -54,7 +54,7 @@ const World = () => (
 
                 <div className="absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
                     <img
-                        src={person2Image} 
+                        src={person2Image}
                         alt="people"
                         className="w-full h-full"
                     />
@@ -62,7 +62,7 @@ const World = () => (
 
                 <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
                     <img
-                        src={person3Image} 
+                        src={person3Image}
                         alt="people"
                         className="w-full h-full"
                     />
